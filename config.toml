@@ -2,7 +2,7 @@
 # Site Settings
 
 baseURL = "https://example.com/"
-title = "Hugo Theme MemE"
+title = "Thihup's blog"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
@@ -98,17 +98,12 @@ uglyURLs = false
 # Author’s information
 [author]
     # Name
-    name = "reuixiy"
+    name = "Thiago Henrique Hüpner"
     # Email
-    email = "reuixiy@gmail.com"
-    # Motto or introduction
-    motto = "Viva La Vida"
-    # Avatar
-    avatar = "/icons/apple-touch-icon.png"
+    email = "thihup@gmail.com"
     # Personal website, default: baseURL
-    website = "https://io-oi.me/"
     # Twitter
-    twitter = "reuixiy"
+    twitter = "Thi_Hup"
 
 # Related content
 [related]
@@ -353,15 +348,15 @@ uglyURLs = false
     siteLogo = "/icons/apple-touch-icon.png"
     # Note: used for JSON-LD, Open Graph
 
-    siteDescription = "MemE is a powerful and highly customizable GoHugo theme for personal blogs."
+    siteDescription = "Thihup's personal blog"
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
-    siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "2021-10-26T21:26:00+03:00"
     # ATTENTION: keep this format, change
     #            the number
 
-    siteTwitter = "reuixiy"
+    siteTwitter = "Thi_Hup"
     # Note: used for Twitter Cards
 
 
