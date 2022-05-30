@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://example.com/"
+baseURL = "https://thihup.dev/"
 title = "Thihup's blog"
 languageCode = "en"
 hasCJKLanguage = false
@@ -924,7 +924,7 @@ uglyURLs = false
 
     enableVideoHost = false
 
-    videoHostURL = "https://example.com/"
+    videoHostURL = "https://thihup.dev/"
 
 
     ######################################
