@@ -16,7 +16,7 @@ newContentEditor = ""
 
 [module]
   [[module.imports]]
-    path = 'modules/google-adsense'
+    path = 'google-adsense'
 
 # i18n
 defaultContentLanguage = "en"
